@@ -1,0 +1,9 @@
+this is programming exercise
+
+
+Conclusion
+You should now be able to install both the Node.js framework, and the NPM package manager. You’ve also written your first node.js JavaScript program!
+
+The NPM framework gives access to many different JavaScript solutions, which can be found at npmjs.com.
+
+
